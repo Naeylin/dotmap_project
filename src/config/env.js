@@ -1,0 +1,1 @@
+export const baseURL = "https://dotmap-candidat.cleverapps.io"
